@@ -6,7 +6,7 @@ I dont owe nexmo and thhis aint an ad
 # Instructions
 *nix<br>
 pip3 install nexmo<br>
-git clone 172389123981823<br>
+git clone https://github.com/omererbilgin/sms-spammer-nexmo<br>
 cd sms-spammer-nexmo<br>
 <br>
 nano sender.py<br>
