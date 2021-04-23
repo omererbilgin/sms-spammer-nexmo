@@ -4,21 +4,21 @@ buy from nexmo
 I dont owe nexmo and thhis aint an ad
 
 # Instructions
-*nix\n
-pip3 install nexmo\n
-git clone 172389123981823\n
-cd sms-spammer-nexmo\n
+*nix<br>
+pip3 install nexmo<br>
+git clone 172389123981823<br>
+cd sms-spammer-nexmo<br>
+<br>
+nano sender.py<br>
+`change line 16 to change the body text cycle num`<br>
+CTRL+S<br>
+CTRL+X<br>
 
-nano sender.py\n
-`change line 16 to change the body text cycle num`
-CTRL+S
-CTRL+X
+`change numbers.txt with the destination numbers and the body.txt with the body text to toggle`<br>
 
-`change numbers.txt with the destination numbers and the body.txt with the body text to toggle`
-
-ok youre done just type 
-$ python3 sender.py
-hit enter and wait
+ok youre done just type <br>
+$ python3 sender.py<br>
+hit enter and wait<br>
 
 # Contributing 
 
